@@ -1,0 +1,14 @@
+{
+  "name": "AltStore Beta (Old Trusted Bypasss)",
+  "identifier": "io.altstore.example",
+  "sourceURL": "https://nickchan.lol/altstore-beta/apps-safe.json",
+  "apps": [],
+  "news": [{
+      "title": "AltStore Beta has MOVED",
+      "identifier": "altstore-beta-has-moved",
+      "caption": "Delete old source and open altstore://source?url=https://nickchan.lol/altstore-beta/apps.json in Safari to fix",
+      "tintColor": "000000",
+      "date": "2022-09-24",
+      "notify": true
+    }]
+}

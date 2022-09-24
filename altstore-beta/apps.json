@@ -1,0 +1,14 @@
+{
+  "name": "AltStore Beta (Old)",
+  "identifier": "gq.nickchan.altstore-beta",
+  "sourceURL": "https://nickchan.lol/altstore-beta/apps.json",
+  "apps": [],
+  "news": [{
+      "title": "AltStore Beta has MOVED",
+      "identifier": "altstore-beta-has-moved",
+      "caption": "This source has been moved to https://nickchan.lol/altstore-beta/apps.json . Please update your sources list",
+      "tintColor": "000000",
+      "date": "2022-09-24",
+      "notify": true
+    }]
+}
